@@ -35,6 +35,13 @@ body {
     width: 100%;
 }
 
+.person-header h3 {
+    margin: 0;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+
+}
+
 img {
     border-radius: 15px;
     margin: 10px;
@@ -44,10 +51,21 @@ img {
     display: flex;
     justify-content: center;
     flex-direction: row;
+    padding: 20px;
+    background-color: rgb(160, 206, 202);
 }
 
 .footer-link {
-    padding: 0 20px;
+    padding: 20px 20px;
+}
+
+.footer-link-a {
+    color: black;
+    font-weight: bold;
+}
+
+a:hover {
+    color:white;
 }
 
 #person-footer {
