@@ -6,11 +6,11 @@ body {
     background-color: rgb(228,228,228);
 }
 
-h1 {
+.about-header {
     text-align: center;
     background-color: rgb(160, 206, 202);
     color: white;
-    margin-top: 0;
+    padding-bottom: 60px;
 }
 
 .about-box {
@@ -28,7 +28,7 @@ h1 {
     text-align: center;
 }
 
-header {
+.person-header {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-color: rgb(218,218,218);
@@ -40,8 +40,12 @@ img {
     margin: 10px;
 }
 
-footer {
+#person-footer {
     padding-left: 10px;
     padding-right: 10px;
     text-align: left;
+}
+
+#person-footer p {
+    color: rgb(24,24,24);
 }
