@@ -7,12 +7,12 @@ export const AboutArray = [
     {
         name: "Ken Hamamoto",
         image: "https://i.imgur.com/Dx8J8Mxb.png?2",
-        body: "GA student learning to become an Software Engineer. Hoping that this gitworkflow works out ok. Just noticed I look as red as the door in my photo. "
+        body: "GA student learning to become an Software Engineer. Hoping that this git workflow works out ok. Just noticed I look as red as the door in my photo."
     },
     {
         name: 'Cameron Johnson',
         image: 'https://i.imgur.com/UNum1v7b.jpg',
-        body: "Hi I'm Cameron! I'm a software engineer living in St. Petersburg, FL. I love to read and mkae things(clay, paint, ect)! "
+        body: "Hi I'm Cameron! I'm a software engineer living in St. Petersburg, FL. I love to read and make things(clay, paint, etc)!"
     },
     {
         name: "Rei Pagdilao",
@@ -22,6 +22,6 @@ export const AboutArray = [
     {
         name: "Shannan Bunch",
         image: "https://i.imgur.com/CVDh8Fxb.jpg",
-        body: "GA student in SEI out of Seattle summer co-hort"
+        body: "GA student in SEI out of Seattle summer cohort."
       }
 ]
