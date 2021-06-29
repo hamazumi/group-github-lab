@@ -40,11 +40,22 @@ img {
     margin: 10px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.footer-link {
+    padding: 0 20px;
+}
+
 #person-footer {
     padding-left: 10px;
     padding-right: 10px;
     text-align: left;
 }
+
 
 #person-footer p {
     color: rgb(24,24,24);
