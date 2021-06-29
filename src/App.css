@@ -1,0 +1,20 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.about-box {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.person-box {
+    background-color: grey;
+    color: white;
+    margin: 50px;
+    text-align: center;
+}
